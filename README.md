@@ -1,2 +1,4 @@
-# Data-Analysis-Dashboard-For-Retail-Store
-This Power BI dashboard analyzes retail store sales data, highlighting total sales, profit, and trends. It includes insights by country, city, and category, with SQL used for data preparation.
+#Retail Store Sales Summary (Interactive Dashboard creation using MX Excel)
+
+## Project Objective
+The objective of this project is to analyze retail sales data to identify key trends, profits, and performance metrics. It aims to provide actionable insights for data-driven decision-making.
